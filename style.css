@@ -7,11 +7,6 @@ body{
     margin: 0px;
 }
 
-.offset{
-  margin-top: 100px;
-}
-
-
 .hero-image {
     background-image: url("hero_img.jpg");
     height: 100%;
@@ -30,7 +25,7 @@ body{
     color: white;
 }
 
-.button2{
+.button2{ /*css for the launch button on home page*/
     display:inline-block;
     padding:0.5em 3em;
     border:0.16em solid #FFFFFF;
@@ -89,6 +84,10 @@ body{
 
 .header-right {
   float: right;
+}
+
+.offset{
+  margin-top: 100px;
 }
 
 .card {
