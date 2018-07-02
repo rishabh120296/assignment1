@@ -8,7 +8,7 @@ body{
 }
 
 .hero-image {
-    background-image: url("hero_img.jpg");
+    background-image: url("../img/hero_img.jpg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -26,10 +26,10 @@ body{
 }
 
 .button2{ /*css for the launch button on home page*/
-    display:inline-block;
-    padding:0.5em 3em;
-    border:0.16em solid #FFFFFF;
-    margin:0 0.3em 0.3em 0;
+    display: inline-block;
+    padding: 0.5em 3em;
+    border: 0.16em solid #FFFFFF;
+    margin: 0 0.3em 0.3em 0;
     box-sizing: border-box;
     text-decoration:none;
     text-transform:uppercase;
@@ -142,7 +142,7 @@ body{
 .vision {
   padding: 50px;
   text-align: center;
-  background-image: url("vision_bg.jpg");
+  background-image: url("../img/vision_bg.jpg");
   color: white;
   font-size: 30px;
 }
